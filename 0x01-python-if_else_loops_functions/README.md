@@ -1,1 +1,1 @@
-This directory contains if/else conditional codes
+Python - if/else, loops, functions
